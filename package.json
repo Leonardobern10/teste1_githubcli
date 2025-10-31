@@ -1,0 +1,27 @@
+{
+  "name": "teste1",
+  "version": "1.0.0",
+  "description": "Este repositório visa aplicar algumas técnicas e conhecimentos na plataforma Github, utilizando tanto o Git quanto o Github CLI.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardobern10/teste1_githubcli.git"
+  },
+  "keywords": [
+    "Git",
+    "Github",
+    "Github CLI"
+  ],
+  "author": "Leonardo Bernardo",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Leonardobern10/teste1_githubcli/issues"
+  },
+  "homepage": "https://github.com/Leonardobern10/teste1_githubcli#readme"
+}
