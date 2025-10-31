@@ -19,7 +19,7 @@
   ],
   "author": "Leonardo Bernardo",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Leonardobern10/teste1_githubcli/issues"
   },
