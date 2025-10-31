@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Leonardobern10/teste1_githubcli/issues"
   },
-  "homepage": "https://github.com/Leonardobern10/teste1_githubcli#readme"
+  "homepage": "https://github.com/Leonardobern10/teste1_githubcli#readme",
+  "devDependencies": {
+    "@types/node": "^24.9.2"
+  }
 }
